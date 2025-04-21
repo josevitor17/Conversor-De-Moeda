@@ -5,14 +5,14 @@
     font-family: "Roboto", sans-serif;
 }
 body{
-    background: rgba(138, 81, 252, 1);
+    background-image: url('https://vault.pulsarimagens.com.br/file/thumb/03JLB565.jpg');
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 120vh;
+    height: 110vh;
 }
 header{
-background-color: aqua;
+background-color: #772fd3;
 height: 50px;
 width: 300px;
 display: flex;
@@ -32,12 +32,12 @@ main{
     
     background-color: azure;
     width: 300px;
-    padding: 44px 24px 23px;
+    padding:25px 24px 23px;
     
    
 }
 label{   
- color: rgb(153, 155, 155);
+ color: black;
  margin-bottom: 5px;
  font-size: 13px;
 }
@@ -98,7 +98,7 @@ section{
     gap: 3px;
  }
  .currency {
-    color: rgb(153, 155, 155);
+    color: black;
     font-size: 14px;
 }
 
